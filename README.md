@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi there👋, I'm Ayush</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 **sayush950/sayush950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
