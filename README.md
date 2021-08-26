@@ -37,6 +37,34 @@ I am a third year Computer Science Engineering student having strong technical s
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  
+<hr>
 
-  
+<!-- START NEW SECTION -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ankit-jailwal&theme=radical&margin-w=40&margin-h=40)](https://github.com/Ankit-jailwal)
+
+<hr>
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![sayush950's github stats](https://github-readme-stats.vercel.app/api?username=sayush950&show_icons=true&theme=dark&hide_title=true)](https://github.com/sayush950)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayush950&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sayush950)|![sayush950](https://github-readme-streak-stats.herokuapp.com/?user=sayush950&theme=dark)
+<hr>
+
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sayush950}/count.svg" /></p> 
+<br></div>
+
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+<hr>
