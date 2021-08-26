@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Ayush</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
+<img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 **sayush950/sayush950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
