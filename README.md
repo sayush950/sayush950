@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from India <img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="25"></h3>
 <img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1803678/screenshots/3652824/00-imp--04animation_1.gif">
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙂 About me</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 
 I am a third year Computer Science Engineering student having strong technical skills in Web development, video editing and having interest towards Machine learning and Artificial Intelligence. Recently, I've done my Summer Training in Full Stack Developer (HTML5, CSS3, JavaScript, Bootstrap, PHP with MySQL) from E&ICT Academy, IIT Kanpur and intenship from Robustresults Pvt ltd.
 <h4>I’m looking to collaborate on an Open-Source Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
