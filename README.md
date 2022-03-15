@@ -45,7 +45,7 @@ I am a third year Computer Science Engineering student having strong technical s
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ankit-jailwal&theme=radical&margin-w=40&margin-h=40)](https://github.com/Ankit-jailwal)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayush950&theme=radical&margin-w=40&margin-h=40)](https://github.com/sayush950)
 
 <hr>
 <!-- START NEW SECTION -->
