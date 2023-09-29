@@ -4,7 +4,7 @@
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 
-I am a third year Computer Science Engineering student having strong technical skills in Web development, video editing and having interest towards Machine learning and Artificial Intelligence. Recently, I've done my Summer Training in Full Stack Developer (HTML5, CSS3, JavaScript, Bootstrap, PHP with MySQL) from E&ICT Academy, IIT Kanpur and intenship from Robustresults Pvt ltd.
+I am a First Year Computer Science & Software Engineering graduate student at Auburn University having strong technical skills in Web development, video editing and having interest towards Machine learning and Artificial Intelligence.
 <h4>I’m looking to collaborate on an Open-Source Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
 <!-- START NEW SECTION -->
