@@ -4,7 +4,7 @@
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 
-I am a First Year Computer Science & Software Engineering graduate student at Auburn University having strong technical skills in Web development, video editing and having interest towards Machine learning and Artificial Intelligence.
+A highly motivated and detail-oriented Computer Science & Software Engineering graduate student at Auburn University with expertise in full-stack development, supply chain software solutions, and AI-driven platforms. Proven track record of improving system performance, leading cross-functional teams, and implementing scalable solutions. Adept at leveraging advanced frameworks and technologies to enhance user experience and operational efficiency.
 <h4>I’m looking to collaborate on an Open-Source Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
 <!-- START NEW SECTION -->
@@ -37,6 +37,7 @@ I am a First Year Computer Science & Software Engineering graduate student at Au
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+<a href="https://www.docker.com/en" target="_blank"> <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="Docker" width="40" height="40"/></a>
 <hr>
 
 <!-- START NEW SECTION -->
