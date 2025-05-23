@@ -7,7 +7,8 @@
 A highly motivated and detail-oriented Computer Science & Software Engineering graduate from Auburn University with expertise in full-stack development, supply chain software solutions, and AI-driven platforms. Proven track record of enhancing system performance, leading cross-functional teams, and delivering scalable, production-ready solutions. <br>
 Skilled in leveraging modern frameworks and technologies to optimize user experience and operational efficiency.
 
-<h5>I’m actively seeking full-time opportunities as a Software Engineer, Full-Stack/MERN-Stack Developer roles which aligns best with my skills and experience. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h5>
+<h5>I’m actively seeking full-time opportunities as a Software Engineer, Full-Stack,<br>
+MERN-Stack Developer roles which aligns best with my skills and experience. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h5>
 
 <!-- START NEW SECTION -->
 <!-- CONNECT WITH ME LINKS -->
