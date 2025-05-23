@@ -4,8 +4,11 @@
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 
-A highly motivated and detail-oriented Computer Science & Software Engineering graduate student at Auburn University with expertise in full-stack development, supply chain software solutions, and AI-driven platforms. Proven track record of improving system performance, leading cross-functional teams, and implementing scalable solutions. Adept at leveraging advanced frameworks and technologies to enhance user experience and operational efficiency.
-<h4>I’m looking to collaborate on an Open-Source Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
+A highly motivated and detail-oriented Computer Science & Software Engineering graduate from Auburn University with expertise in full-stack development, supply chain software solutions, and AI-driven platforms. Proven track record of enhancing system performance, leading cross-functional teams, and delivering scalable, production-ready solutions. <br>
+Skilled in leveraging modern frameworks and technologies to optimize user experience and operational efficiency.
+
+<h5>I’m actively seeking full-time opportunities as a Software Engineer, Software Developer, <br>
+or Full-Stack/MERN-Stack Developer roles which aligns best with my skills and experience. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h5>
 
 <!-- START NEW SECTION -->
 <!-- CONNECT WITH ME LINKS -->
@@ -13,7 +16,6 @@ A highly motivated and detail-oriented Computer Science & Software Engineering g
 <p align="left">
 <a href="https://linkedin.com/in/ayush-singh-a70a07156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-singh-a70a07156" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sayush950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayush950" height="35" width="40" /></a>
-<a href="https://instagram.com/irxahm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irxahm" height="35" width="40" /></a>
 </p>
 
 <hr>
@@ -21,23 +23,26 @@ A highly motivated and detail-oriented Computer Science & Software Engineering g
 <!--  Languages and Tools:  -->
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>  
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <br>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>  
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.docker.com/en" target="_blank"> <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="Docker" width="40" height="40"/></a>
+<a href="https://html.com/html5/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="css3" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40" height="40"/></a>
+<a href="https://jquery.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/jquery-icon-2018x2048-nrk2gcih.png" alt="JQuery" width="40" height="40"/></a> <br><br>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJS" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://cdn3.emoji.gg/emojis/2057-javascript-logo.png" alt="ExpressJS" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>  
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/?msockid=0b84869bdbdb677b0c4593d3da6b6664" target="_blank"> <img src="https://www.svgrepo.com/download/439231/mongodb.svg" alt="MongoDB" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="Docker" width="40" height="40"/></a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" alt="Kubernetes" width="40" height="40"/></a>
+<a href="https://git-scm.com/downloads" target="_blank"> <img src="https://github.com/user-attachments/assets/62f9f1ed-892d-4771-9cd3-326acd708a8e" alt="Git" width="40" height="40"/></a>
+
+
+
+  
 <hr>
 
 <!-- START NEW SECTION -->
