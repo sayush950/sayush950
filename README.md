@@ -57,10 +57,14 @@ MERN-Stack Developer roles which aligns best with my skills and experience. <img
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
+<div align="center">
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![sayush950's github stats](https://github-readme-stats.vercel.app/api?username=sayush950&show_icons=true&theme=dark&hide_title=true)](https://github.com/sayush950)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayush950&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sayush950)|![sayush950](https://github-readme-streak-stats.herokuapp.com/?user=sayush950&theme=dark)
+| My GitHub Statistics | My Languages |
+|----------------------|--------------|
+| [![sayush950's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayush950&show_icons=true&theme=dark&hide_title=true)](https://github.com/sayush950) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayush950&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sayush950) |
+
+</div>
+
 <hr>
 
 <!-- START NEW SECTION -->
