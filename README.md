@@ -27,10 +27,10 @@ MERN-Stack Developer roles which aligns best with my skills and experience. <img
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://html.com/html5/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="css3" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/user-attachments/assets/6a2f9fcb-2e23-4004-9424-f1d2922b8389" alt="css3" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40" height="40"/></a>
-<a href="https://jquery.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/jquery-icon-2018x2048-nrk2gcih.png" alt="JQuery" width="40" height="40"/></a> <br><br>
+<a href="https://jquery.com/" target="_blank"> <img src="https://logodix.com/logo/941120.png" alt="JQuery" width="40" height="40"/></a> <br><br>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJS" width="40" height="40"/></a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn3.emoji.gg/emojis/2057-javascript-logo.png" alt="ExpressJS" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>  
